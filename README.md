@@ -1,4 +1,6 @@
-# melange-opam-template
+# learn-reason-react
+
+ReasonML + reason-react
 
 A simple project template using [Melange](https://github.com/melange-re/melange)
 with [opam](https://opam.ocaml.org/).
